@@ -6,7 +6,7 @@ sl
 </h1>
 <p align="center"> 
   my visitors<br>
-  <img src="https://profile-counter.glitch.me/JosephThuku/count.svg" />
+  <img src="https://profile-counter.glitch.me/jim-les/count.svg" />
 </p>
 
 - 🔭 I’m currently looking for software engineer job/ DevOps.
@@ -15,4 +15,4 @@ sl
 - [check my portifolio](https://joethuku.vercel.app/about "JIMLESTON") 
   
  
- [![Joe Thuku's github Stats](https://github-readme-stats.vercel.app/api?username=JosephThuku&show_icons=true&theme=black)][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jim-les&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jim-les&show_icons=true&theme=black&layout=compact)]
+ [![Joe Thuku's github Stats](https://github-readme-stats.vercel.app/api?username=jim-les&show_icons=true&theme=black)][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jim-les&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jim-les&show_icons=true&theme=black&layout=compact)]
