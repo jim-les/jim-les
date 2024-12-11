@@ -11,7 +11,7 @@ sl
 
 - 🔭 I’m currently looking for software engineer job/ DevOps.
 - 💬 Ask me about Fullstack Development, Django, Python, Cybersecurity, React, Nodejs and .NET
-- 🏍 How to reach me: jimleston35@gmail.com 
+- 🏍 How to reach me: jimlestonosoi42@gmail.com 
 - [check my portifolio](https://leston-five.vercel.app/ "JIMLESTON") 
   
  
