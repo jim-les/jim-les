@@ -16,3 +16,11 @@ sl
   
  
  [![Jimlestons github Stats](https://github-readme-stats.vercel.app/api?username=jim-les&show_icons=true&theme=black)][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jim-les&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jim-les&show_icons=true&theme=black&layout=compact)]
+
+ ## 🏆 Achievements and Contributions
+
+<p align="center">
+  <a href="https://github.com/JosephThuku">
+    <img src="https://github-profile-trophy.vercel.app/?username=jim-les&theme=darkhub" alt="GitHub Trophies"/>
+  </a>
+</p>
