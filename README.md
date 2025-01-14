@@ -20,7 +20,7 @@ sl
  ## 🏆 Achievements and Contributions
 
 <p align="center">
-  <a href="https://github.com/JosephThuku">
+  <a href="https://github.com/jim-les">
     <img src="https://github-profile-trophy.vercel.app/?username=jim-les&theme=darkhub" alt="GitHub Trophies"/>
   </a>
 </p>
